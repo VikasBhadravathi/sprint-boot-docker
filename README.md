@@ -1,2 +1,1 @@
-# sprint-boot-docker
-Sample project to learn docker
+Just a sample hello world application using Java/Spring Boot
